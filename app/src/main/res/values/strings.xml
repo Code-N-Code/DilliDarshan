@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dilli Darshan</string>
+    <string name="open">Drawer is open</string>
+    <string name="closed">Drawer is closed</string>
+</resources>

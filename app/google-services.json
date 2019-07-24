@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1015206878",
+    "firebase_url": "https://dillidarshan-b8175.firebaseio.com",
+    "project_id": "dillidarshan-b8175",
+    "storage_bucket": "dillidarshan-b8175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015206878:android:0cbc700d7436033b",
+        "android_client_info": {
+          "package_name": "com.codencode.dillidarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015206878-ctm49ictnloqbv6snqej5tuifmcpsiim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codencode.dillidarshan",
+            "certificate_hash": "da9fad26d4ada68f86c9a879e1d64da66fb1e59a"
+          }
+        },
+        {
+          "client_id": "1015206878-e3fga4mlgm7ihosunlinsh2m2k538iev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvvMquWNYQwvF9MtsxWh5J2xFm4FCMWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015206878-e3fga4mlgm7ihosunlinsh2m2k538iev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

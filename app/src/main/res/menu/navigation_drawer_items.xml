@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Options to explore">
+    <menu>
+        <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/malls_id"
+            android:icon="@drawable/ic_malls_black_24dp"
+            android:title="Malls"/>
+        <item
+            android:id="@+id/monuments_id"
+            android:icon="@drawable/ic_monuments_24dp"
+            android:title="Monuments"/>
+        <item
+            android:id="@+id/parks_id"
+            android:icon="@drawable/ic_park_24dp"
+            android:title="Parks"/>
+        </group>
+    </menu>
+    </item>
+
+    <item android:title="Help Us">
+        <menu>
+            <item android:title="Share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:id="@+id/share_id"/>
+            <item android:title="Rate Us"
+                android:icon="@drawable/ic_star_half_black_24dp"
+                android:id="@+id/rate_us_id"/>
+            <item android:title="Contact Us/Feedback"
+                android:icon="@drawable/ic_feedback_black_24dp"
+                android:id="@+id/contact_us_id"/>
+        </menu>
+    </item>
+
+
+</menu>
